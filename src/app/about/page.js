@@ -2,8 +2,8 @@ import React from 'react'
 
 function about() {
   return (
-    <div className='max-w-6xl mx-auto  space-y-4 mt-4'>
-      <h1 className='text-2xl text-center font-medium text-amber-600'>About The Website</h1>
+    <div className='max-w-6xl mx-auto  space-y-4 mt-4 space-x-4'>
+      <h1 className='text-2xl  font-medium text-amber-600 ml-4'>About The Website</h1>
       <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </p>
